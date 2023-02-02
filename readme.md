@@ -1,7 +1,7 @@
-                       ###Hi 👋, I'm R Sai Manjunath Naik
+###Hi 👋, I'm R Sai Manjunath Naik
   
-   A passionate full-stack developer from India
-   I am always looking for an opportunity to do better and achieve greatness.
+A passionate full-stack developer from India
+I am always looking for an opportunity to do better and achieve greatness.
 
 
 Here are some ideas to get you started:
