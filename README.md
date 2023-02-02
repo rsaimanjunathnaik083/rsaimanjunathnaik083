@@ -1,9 +1,8 @@
-###                   Hi 👋, I'm R Sai Manjunath Naik
+                       ###Hi 👋, I'm R Sai Manjunath Naik
   
-                A passionate full-stack developer from India
+   A passionate full-stack developer from India
    I am always looking for an opportunity to do better and achieve greatness.
 
-**rsaimanjunathnaik083/rsaimanjunathnaik083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
