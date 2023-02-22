@@ -21,25 +21,6 @@
 - 💌 Reach out me at [_**rsaimanjunath9014@gmail.com**_](mailto:rsaimanjunath9014@gmail.com)
 - ⚙️ Technical Skills : HTML, CSS, JS, Express.JS, Node.JS, React, Redux, Chakra UI, TypeScript, MongoDB,
 
-## 📊 My Github Stats
-
-<img align="right" width=100% src = "https://github-readme-stats.vercel.app/api?username=Mahindra-Jayavaram&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-<img width=100% src = "https://camo.githubusercontent.com/a75aeca88118ac02143a575749c096f69f0111accad8ba45ddf7fc586ea7108c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d676972656573686b756d617265646967612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" />
-<img width= 100% src = "https://camo.githubusercontent.com/478de9f2e149d7fce800d29398906f4c41ac95d051e0109a5e1d12c4a5d22fe1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7361726174682d31393426" />
-
-<h2 align="left">✉️ Connect with me:</h2>
-<p align="left" display= "flex">
-  
-<a href="https://www.linkedin.com/in/rsaimanjunathnaik/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjunath naik" height="30" width="40" /></a>
-        
-<a href="https://www.facebook.com/manjusainaik.manjunath?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahindra mahi" height="30" width="40" /></a>
-        
-<a href="https://medium.com/@mahindrajayavaram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@manjunathnaik" height="30" width="40" /></a>
-        
- <a href="https://twitter.com/@manjusa31254459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manjusa31254459" height="30" width="40" /></a> 
-        
-</p>
 ## 🚀 Languages and Tools:
 <p display= "flex">
         
