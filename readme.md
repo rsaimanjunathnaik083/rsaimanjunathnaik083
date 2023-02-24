@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Channakeshava N</h1>
+<h1 align="center">Hi 👋, I'm R Sai Manjunath Naik</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <p align="center">I am always looking for an opportunity to do better and achieve greatness. </p>
 
