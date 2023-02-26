@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/channakeshava-n-a17aa9215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="channakeshava" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/channakeshava-n-a17aa9215](https://www.linkedin.com/in/rsaimanjunathnaik/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rsaimanjunathnaik083" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> 📊 My Github Stats</h3>
