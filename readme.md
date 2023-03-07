@@ -4,9 +4,9 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 <p align="center">I am always looking for an opportunity to do better and achieve greatness. </p>
 
-<p align="center">
-  <img width='100%' src="https://cdn-images.zety.com/pages/web_developer_cover_letter_example_1.jpg" />
-  <img width='100%' height='300vh' display="block" object-fit"cover" opacity=1 src='https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-   1.2.1&q=80&cs=tinysrgb&fm=jpg&crop=entropy&w=3600'/>
+<!-- <p align="center">
+  <img width='100%' src="https://cdn-images.zety.com/pages/web_developer_cover_letter_example_1.jpg" /> -->
+  <img width='100%' height='300vh' display="block" object-fit"cover" opacity=1 src='https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&q=80&cs=tinysrgb&fm=jpg&crop=entropy&w=3600'/>
 </p>
 </br>
 
