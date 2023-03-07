@@ -11,30 +11,30 @@
 
 - 🌱 I’m currently learning **nodeJs expressjs mongodb**
 
-- 👨‍💻 All of my projects are available at [https://channa47.github.io/](https://channa47.github.io/)
+- 👨‍💻 All of my projects are available at [https://rsaimanjunathnaik083.github.io/](https://rsaimanjunathnaik083.github.io/)
 
-- 📫 How to reach me **keshavachanna47@gmail.com**
+- 📫 How to reach me **rsaimanjunath9014@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pateOmpHP03hayVqPCkBwa_lJ0lTwSwO/view?usp=sharing](https://drive.google.com/file/d/1pateOmpHP03hayVqPCkBwa_lJ0lTwSwO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1C7oqGjpEtU_b1b_aWgVfq9PPpKi9vkaf/view?usp=share_link](https://drive.google.com/file/d/1C7oqGjpEtU_b1b_aWgVfq9PPpKi9vkaf/view?usp=share_link)
 
 - ⚡ Fun fact **I do get solution for bugs in my sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/channakeshava-n-a17aa9215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="channakeshava" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rsaimanjunathnaik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjunathnaik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> 📊 My Github Stats</h3>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=channa47&label=Profile%20views&color=0e75b6&style=flat" alt="channa47" />
-<a href="https://github.com/channa47?tab=followers"><img src="https://img.shields.io/github/followers/channa47?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rsaimanjunathnaik083&label=Profile%20views&color=0e75b6&style=flat" alt="channa47" />
+<a href="https://github.com/rsaimanjunathnaik083?tab=followers"><img src="https://img.shields.io/github/followers/rsaimanjunathnaik083label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
   <br/>
   
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=channa47&bg_color=0D1117&color=2196f3&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="channa47" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=channa47&bg_color=0D1117&color=2196f3&layout=compact&border_radius=0" alt="channa47" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsaimanjunathnaik083&bg_color=0D1117&color=2196f3&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="rsaimanjunathnaik083" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaimanjunathnaik083&bg_color=0D1117&color=2196f3&layout=compact&border_radius=0" alt="rsaimanjunathnaik083" height="139" />
 </p>
 
 <br/>
@@ -44,16 +44,17 @@
  <hr/>
  	
 <p align="center">
-    <a href="https://github.com/channa47/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="channa47 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=channa47&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/rsaimanjunathnaik083/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rsaimanjunathnaik083 streak" 
+          src="https://github-readme-streak-stats.herokuapp.com/?user=rsaimanjunathnaik083&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   
  
 
- <p align="center"<a href="#"><img alt="channa47-github-stats-graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=channa47&bg_color=0D1117&color=42a5f5&line=42a5f5&point=FFFFFF&hide_border=true&"/></a></p>
+ <p align="center"<a href="#"><img alt="rsaimanjunathnaik083-github-stats-graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rsaimanjunathnaik083&bg_color=0D1117&color=42a5f5&line=42a5f5&point=FFFFFF&hide_border=true&"/></a></p>
 
-<p align="center"> <a href="https://github.com/channa47"><img src="https://github-profile-trophy.vercel.app/?username=channa47&margin-w=5&theme=radical" alt="channa47" /></a> </p>
+<p align="center"> <a href="https://github.com/rsaimanjunathnaik083"><img src="https://github-profile-trophy.vercel.app/?username=rsaimanjunathnaik083&margin-w=5&theme=radical" alt="rsaimanjunathnaik083" /></a> </p>
 
  </div>
 
