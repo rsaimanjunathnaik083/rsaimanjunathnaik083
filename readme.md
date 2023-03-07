@@ -1,41 +1,40 @@
 
-
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Manjunath Naik </h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <p align="center">I am always looking for an opportunity to do better and achieve greatness. </p>
 
 <p align="center">
-<img width='100%' src="[https://cdn-images.zety.com/pages/web_developer_cover_letter_example_1.jpg](https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&q=80&cs=tinysrgb&fm=jpg&crop=entropy&w=3600)" />
-<!--   <img width='100%' height='300vh' display="block" object-fit"cover" opacity=1 src='https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&q=80&cs=tinysrgb&fm=jpg&crop=entropy&w=3600'/> -->
+  <img width='100%' height='300vh' display="block" object-fit"cover" opacity=1 src='https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&q=80&cs=tinysrgb&fm=jpg&crop=entropy&w=3600'/>
 </p>
 </br>
 
+
 - 🌱 I’m currently learning **nodeJs expressjs mongodb**
 
-- 👨‍💻 All of my projects are available at [https://rsaimanjunathnaik083.github.io/](https://rsaimanjunathnaik083.github.io/)
+- 👨‍💻 All of my projects are available at [https://channa47.github.io/](https://channa47.github.io/)
 
-- 📫 How to reach me **rsaimanjunathnaik083@gmail.com**
+- 📫 How to reach me **keshavachanna47@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1pateOmpHP03hayVqPCkBwa_lJ0lTwSwO/view?usp=sharing](https://drive.google.com/file/d/1C7oqGjpEtU_b1b_aWgVfq9PPpKi9vkaf/view?usp=share_link)]([https://drive.google.com/file/d/1pateOmpHP03hayVqPCkBwa_lJ0lTwSwO/view?usp=sharing](https://drive.google.com/file/d/1C7oqGjpEtU_b1b_aWgVfq9PPpKi9vkaf/view?usp=share_link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pateOmpHP03hayVqPCkBwa_lJ0lTwSwO/view?usp=sharing](https://drive.google.com/file/d/1pateOmpHP03hayVqPCkBwa_lJ0lTwSwO/view?usp=sharing)
 
 - ⚡ Fun fact **I do get solution for bugs in my sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/channakeshava-n-a17aa9215](https://www.linkedin.com/in/rsaimanjunathnaik/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rsaimanjunathnaik083" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/channakeshava-n-a17aa9215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="channakeshava" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> 📊 My Github Stats</h3>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rsaimanjunathnaik083&label=Profile%20views&color=0e75b6&style=flat" alt="rsaimanjunathnaik083" />
-<a href="https://github.com/rsaimanjunathnaik083?tab=followers"><img src="https://img.shields.io/github/followers/rsaimanjunathnaik083?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=channa47&label=Profile%20views&color=0e75b6&style=flat" alt="channa47" />
+<a href="https://github.com/channa47?tab=followers"><img src="https://img.shields.io/github/followers/channa47?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
   <br/>
   
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsaimanjunathnaik083&bg_color=0D1117&color=2196f3&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="rsaimanjunathnaik083" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaimanjunathnaik083&bg_color=0D1117&color=2196f3&layout=compact&border_radius=0" alt="rsaimanjunathnaik083" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=channa47&bg_color=0D1117&color=2196f3&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="channa47" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=channa47&bg_color=0D1117&color=2196f3&layout=compact&border_radius=0" alt="channa47" height="139" />
 </p>
 
 <br/>
@@ -45,16 +44,16 @@
  <hr/>
  	
 <p align="center">
-    <a href="https://github.com/rsaimanjunathnaik083/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rsaimanjunathnaik083 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rsaimanjunathnaik083&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/channa47/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="channa47 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=channa47&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   
  
 
- <p align="center"<a href="#"><img alt="rsaimanjunathnaik083-github-stats-graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=rsaimanjunathnaik083&bg_color=0D1117&color=42a5f5&line=42a5f5&point=FFFFFF&hide_border=true&"/></a></p>
+ <p align="center"<a href="#"><img alt="channa47-github-stats-graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=channa47&bg_color=0D1117&color=42a5f5&line=42a5f5&point=FFFFFF&hide_border=true&"/></a></p>
 
-<p align="center"> <a href="https://github.com/rsaimanjunathnaik083"><img src="https://github-profile-trophy.vercel.app/?username=rsaimanjunathnaik083&margin-w=5&theme=radical" alt="rsaimanjunathnaik083" /></a> </p>
+<p align="center"> <a href="https://github.com/channa47"><img src="https://github-profile-trophy.vercel.app/?username=channa47&margin-w=5&theme=radical" alt="channa47" /></a> </p>
 
  </div>
 
@@ -62,11 +61,11 @@
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsaimanjunathnaik083&show_icons=true&locale=en&layout=compact" alt="rsaimanjunathnaik083" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=channa47&show_icons=true&locale=en&layout=compact" alt="channa47" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsaimanjunathnaik083&show_icons=true&locale=en" alt="rsaimanjunathnaik083" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=channa47&show_icons=true&locale=en" alt="channa47" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsaimanjunathnaik083&" alt="rsaimanjunathnaik083" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=channa47&" alt="channa47" /></p>
  -->
  <h3> 🚀 Languages and Tools:</h3>
 <hr />
