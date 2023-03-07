@@ -26,12 +26,14 @@
 
 <h3 align="left"> 📊 My Github Stats</h3>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rsaimanjunathnaik083&label=Profile%20views&color=0e75b6&style=flat" alt="rsaimanjunathnaik083" />
-<a href="https://github.com/rsaimanjunathnaik083?tab=followers"><img src="https://img.shields.io/github/followers/rsaimanjunathnaik083label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=rsaimanjunathnaik083&label=Profile%20views&color=0e75b6&style=flat" alt="rsaimanjunathnaik083" />
+  <a href="https://github.com/rsaimanjunathnaik083?tab=followers">
+    <img src="https://img.shields.io/github/followers/rsaimanjunathnaik083?label=Followers&style=social" alt="GitHub Badge">
+  </a>
 </p>
-  <br/>
+<br/>
   
-
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rsaimanjunathnaik083&bg_color=0D1117&color=2196f3&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="rsaimanjunathnaik083" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaimanjunathnaik083&bg_color=0D1117&color=2196f3&layout=compact&border_radius=0" alt="rsaimanjunathnaik083" height="139" />
