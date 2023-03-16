@@ -4,7 +4,7 @@
 <p align="center">I am always looking for an opportunity to do better and achieve greatness. </p>
 
 <p align="center">
-  <img width='100%' height='350vh' display="block" object-fit"cover" opacity=1 src='https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg'/>
+  <img width='100%' height='400vh' display="block" object-fit"cover" opacity=1 src='https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg'/>
 </p>
 </br>
 
