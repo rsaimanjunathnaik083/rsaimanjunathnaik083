@@ -1,6 +1,6 @@
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Manjunath Naik </h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Hrishikesh Naik </h1>
+<h3 align="center">A passionate Frontend developer from India</h3>
 <p align="center">I am always looking for an opportunity to do better and achieve greatness. </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **nodeJs expressjs mongodb**
 
-- 👨‍💻 All of my projects are available at [https://rsaimanjunathnaik083.github.io/](https://rsaimanjunathnaik083.github.io/)
+- 👨‍💻 All of my projects are available at [https://rsaimanjunathnaik083.github.io/](https://hrishikeshh8.github.io/)
 
-- 📫 How to reach me **rsaimanjunath9014@gmail.com**
+- 📫 How to reach me **hrishikeshh8@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1C7oqGjpEtU_b1b_aWgVfq9PPpKi9vkaf/view?usp=share_link](https://drive.google.com/file/d/1C7oqGjpEtU_b1b_aWgVfq9PPpKi9vkaf/view?usp=share_link)
 
