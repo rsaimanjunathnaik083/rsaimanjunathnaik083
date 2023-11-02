@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **nodeJs expressjs mongodb**
 
-- 👨‍💻 All of my projects are available at [https://rsaimanjunathnaik083.github.io/](https://hrishikeshh8.github.io/)
+- 👨‍💻 All of my projects are available at (https://hrishikeshh8.github.io/)
 
 - 📫 How to reach me **hrishikeshh8@gmail.com**
 
